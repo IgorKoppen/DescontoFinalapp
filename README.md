@@ -2,6 +2,11 @@
 
 DescontoFinalApp é um aplicativo Android simples que permite calcular descontos e o preço total após a aplicação do desconto.
 
+
+<p align="center">
+  <img src="https://github.com/IgorKoppen/DescontoFinalapp/blob/main/screenshot/AppScreenShot.png" alt="Captura de Tela do App" width="300"/>
+</p>
+
 ## Funcionalidades
 
 - Calcula o valor do desconto com base no preço original e na porcentagem de desconto.
